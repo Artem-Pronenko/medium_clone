@@ -22,7 +22,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://artem-pronenko.github.io/medium_clone",
+  "homepage": ".",
   "eslintConfig": {
     "extends": [
       "react-app",
