@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 
+.eslintcache
 .firebaserc
 .firebase
 firebase.json
